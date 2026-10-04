@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sdgindustries.store/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://sdgindustries.store/id/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sdgindustries.store/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sdgindustries.store/" />
+  </url>
+  <url>
+    <loc>https://sdgindustries.store/id/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://sdgindustries.store/id/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sdgindustries.store/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sdgindustries.store/" />
+  </url>
+  <url>
+    <loc>https://sdgindustries.store/en/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://sdgindustries.store/id/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sdgindustries.store/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sdgindustries.store/" />
+  </url>
+</urlset>

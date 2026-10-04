@@ -1,0 +1,6 @@
+{
+  "name": "SDG Industries - Portofolio & Apparel Showroom",
+  "description": "Website portofolio interaktif dan showroom kaos streetwear premium SDG Industries dengan cPanel manajemen konten berbahasa Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
